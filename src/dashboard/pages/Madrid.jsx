@@ -3,9 +3,9 @@ import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, LineChart,
 import axios from 'axios';
 import { Col, Container, Row } from 'react-bootstrap';
 
-const url = "http://api.openweathermap.org/data/2.5/forecast?q=Barcelona,es&cnt=5&APPID=72fbc28f994dfa94297aefc7e97d7657";
+const url = "http://api.openweathermap.org/data/2.5/forecast?q=Madrid,es&cnt=5&APPID=72fbc28f994dfa94297aefc7e97d7657";
 
-export const Barcelona = () => {
+export const Madrid = () => {
 
   const [ temp, setWeather ] = useState([])
 

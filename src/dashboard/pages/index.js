@@ -1,3 +1,3 @@
 export * from './Barcelona'
-export * from './Mallorca'
+export * from './Madrid'
 export * from './Valencia'

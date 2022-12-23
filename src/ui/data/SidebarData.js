@@ -12,9 +12,9 @@ export const SidebarData = [
     },
     {
         id: 1,
-        title: "Mallorca",
+        title: "Madrid",
         icon: <DashboardIcon />,
-        link: "/mallorca",
+        link: "/madrid",
     },
     {
         id: 2,
